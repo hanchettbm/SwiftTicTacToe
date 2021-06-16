@@ -42,6 +42,7 @@
 		F3BFB00D2679B5AA002BB1F8 = {
 			isa = PBXGroup;
 			children = (
+				F3BFB020267A7E11002BB1F8 /* README.md */,
 				F3BFB0182679B5AA002BB1F8 /* SwiftTicTacToe */,
 				F3BFB0172679B5AA002BB1F8 /* Products */,
 			);
@@ -59,7 +60,6 @@
 			isa = PBXGroup;
 			children = (
 				F3BFB0192679B5AA002BB1F8 /* main.swift */,
-				F3BFB020267A7E11002BB1F8 /* README.md */,
 			);
 			path = SwiftTicTacToe;
 			sourceTree = "<group>";
