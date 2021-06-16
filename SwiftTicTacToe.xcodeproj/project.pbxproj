@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		F3BFB0162679B5AA002BB1F8 /* SwiftTicTacToe */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftTicTacToe; sourceTree = BUILT_PRODUCTS_DIR; };
 		F3BFB0192679B5AA002BB1F8 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		F3BFB020267A7E11002BB1F8 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				F3BFB0192679B5AA002BB1F8 /* main.swift */,
+				F3BFB020267A7E11002BB1F8 /* README.md */,
 			);
 			path = SwiftTicTacToe;
 			sourceTree = "<group>";
