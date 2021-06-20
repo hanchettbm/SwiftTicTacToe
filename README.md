@@ -1,31 +1,34 @@
 # Overview
+The software that I wrote runs through a simple Tic Tac Toe game, that allows 2 users to play, for X and O, and stores their moves in a dictoionary to be displayed, it checks for valid moves, wins, and ties. This is all done using swift on the command line.   
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+**Purpose:**  
+My purose for writing this software was to learn the swift programming language in preparation to make an iPhone app. I used a simple game with code and comand line logic I already understood, so that I could spend more time learning and understanding the syntax and working of the language. Plus it is a useful and fun way to demonstrate what I have learned.   
 
-{Provide a description the software that you wrote to demonstrate the Kotlin language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/HLOoQEb00z8)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+**Tools for Development Environment:**  
+* Xcode 13
+* Swift Playgrounds 
+* GitHub
 
-{Describe the programming language that you used and any libraries.}
+**Programming Language and Libraries:**  
+* Swift version 5.5
+* git 
+* Swift Foundation Library
 
 # Useful Websites
 
 * [Learn Swift Playgrounds](https://www.appcoda.com/learnswift/playgrounds.html)
 * [Apple Official Documentation](https://developer.apple.com/documentation/swift)
-* [journal Dev](https://www.journaldev.com/19612/swift-readline-swift-print)
+* [Journal Dev](https://www.journaldev.com/19612/swift-readline-swift-print)
+* [Tic Tac Toe with java](https://gist.github.com/abaldwin99/28f114ea3be4cd35fc0c)
 * [Using XCode and GitHub](https://chrishannah.me/using-github-and-xcode-together/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Add a way to store restults to a file for player stats
+* Add an option to play again
+* Add more fun elements such as color or sound
+* Allow for different versions of the game to be run and stored
