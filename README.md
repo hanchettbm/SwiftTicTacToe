@@ -4,7 +4,7 @@ The software that I wrote runs through a simple Tic Tac Toe game, that allows 2 
 **Purpose:**  
 My purose for writing this software was to learn the swift programming language in preparation to make an iPhone app. I used a simple game with code and comand line logic I already understood, so that I could spend more time learning and understanding the syntax and working of the language. Plus it is a useful and fun way to demonstrate what I have learned.   
 
-[Software Demo Video](https://youtu.be/HLOoQEb00z8)
+[Software Demo Video](https://youtu.be/bdrT8gmeWJU)
 
 # Development Environment
 
